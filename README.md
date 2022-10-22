@@ -22,6 +22,8 @@
   ```
 </div>
 
+<br/>
+
 <div>
   <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" />
@@ -34,20 +36,18 @@
 
 Self-motivated and goal-oriented Full-stack Software developer with a huge interest in social entrepreneurship and problem-solving. Experienced in developing full-stack web applications. In love with the idea of minimalism and self-actualization
 
-<br>
-<hr>
-<br>
+<br/>
+<br/>
+<br/>
 
-<div align="left">
-  <div style="display: flex; align-items: center; justify-content: center;">
+<p align="center">
+	  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=mirzaceligija&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="mirzaceligija">
+	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=mirzaceligija&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="mirzaceligija">
+	<br/>
+</p>
 
-  [![](https://github-readme-stats.vercel.app/api?username=mirzaceligija&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/garbinmarcelo)
-  [![](https://github-readme-streak-stats.herokuapp.com/?user=mirzaceligija&theme=tokyonight&hide_border=true)](https://github.com/garbinmarcelo)
-
-  </div>
-</div>
-
-<br>
+<br/>
+<br/>
 
 <a href="https://www.linkedin.com/in/mirzaceligija/" target="_blank">
   <img align="left" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/>
