@@ -1,18 +1,56 @@
-<h1>Hi 👋, I'm @mirzaceligija</h1>
-<h3>Full Stack Software Developer</h3>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&pause=1000&color=FFFFFF&background=FFFFFF00&width=500&lines=Hi+there+%F0%9F%91%8B+I+am+Mirza+%C4%8Celigija">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&pause=1000&color=222222&background=FFFFFF00&width=500&lines=Hi+there+%F0%9F%91%8B+I+am+Mirza+%C4%8Celigija">
+  <img alt="Hi there, I am Mirza Čeligija" src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&pause=1000&color=B6B6B6&background=FFFFFF00&width=435&lines=Hi+there+%F0%9F%91%8B+I+am+Mirza+%C4%8Celigija">
+</picture>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mirzaceligija&label=Profile%20views&color=0e75b6&style=flat" alt="mirzaceligija" /> </p>
+<div>
+  <div align="left" width:30%;">
+    <img align="left" height="210px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
+  </div>
 
-<p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mirzaceligija&show_icons=true&locale=en" alt="mirzaceligija" /></p>
-<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mirzaceligija&" alt="mirzaceligija" /></p>
+  ```javascript
+  const mirza = {
+      pronouns: "He" | "Him",
+      age: "24",
+      location: "Sarajevo, Bosnia & Herzegovina",
+      askMeAbout: ["software dev", "startup dev"],
+      fronEnd: ["angular", "reactjs"],
+      backEnd: [".net core"],
+      database: ["sql", "mongodb"],
+  }
+  ```
+</div>
 
-</br>
+<div>
+  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/MS%20SQL%20Sever-00000F?style=flat&logo=microsoft%20sql%20server&logoColor=white" />
+</div>
 
----
+<br>
 
-<h3 align="left">Languages and Tools:</h3>
+Self-motivated and goal-oriented Full-stack Software developer with a huge interest in social entrepreneurship and problem-solving. Experienced in developing full-stack web applications. In love with the idea of minimalism and self-actualization
 
-I have the relevant experience with the following tools/technologies:
+<br>
+<hr>
+<br>
 
-| <span align="left"><br><h4 align="left">Programming Languages:</h4><br><p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p><br></span> 	| <span align="right"><br><h4 align="left">FrontEnd Development:</h4><br><p align="left"> <a href="https://angular.io" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p><br></span> 	| <span align="left"><br><h4 align="left">BackEnd Development:</h4><br><p align="left"> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p><br></span> 	| <span align="right"><br><h4 align="left">Graphic Design:</h4><br><p align="left"> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p><br></span> 	|
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
+<div align="left">
+  <div style="display: flex; align-items: center; justify-content: center;">
+
+  [![](https://github-readme-stats.vercel.app/api?username=mirzaceligija&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/garbinmarcelo)
+  [![](https://github-readme-streak-stats.herokuapp.com/?user=mirzaceligija&theme=tokyonight&hide_border=true)](https://github.com/garbinmarcelo)
+
+  </div>
+</div>
+
+<br>
+
+<a href="https://www.linkedin.com/in/mirzaceligija/" target="_blank">
+  <img align="left" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=mirzaceligija&label=Profile%20views&color=0e75b6&style=flat" alt="mirzaceligija" />
+
