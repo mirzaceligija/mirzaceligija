@@ -12,7 +12,7 @@
   ```javascript
   const mirza = {
       pronouns: "He" | "Him",
-      age: "24",
+      age: "25",
       location: "Sarajevo, Bosnia & Herzegovina",
       askMeAbout: ["software dev", "startup dev"],
       fronEnd: ["angular", "reactjs"],
@@ -34,7 +34,7 @@
 
 <br>
 
-Self-motivated and goal-oriented Full-stack Software developer with a huge interest in social entrepreneurship and problem-solving. Experienced in developing full-stack web applications. In love with the idea of minimalism and self-actualization
+As a Software Engineer with a passion for start-ups, I enjoy combining my expertise to bridge the gap between technology and entrepreneurship. My commitment is to help companies validate their products and bring innovative ideas to market. Above all, I believe in the power of minimalism and self-actualization and aim to create products that not only solve real-world problems but also empower and inspire users to achieve their goals. I am a firm believer in the power of technology to change the world, and I am excited to be a part of the startup ecosystem that is driving that change.
 
 <br/>
 <br/>
